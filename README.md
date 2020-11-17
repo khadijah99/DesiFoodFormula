@@ -1,5 +1,5 @@
 # DesiFoodFormula
-A food recipe design under production by msamoeed and khadija-hotreload
+A group semester project by msamoeed and me (khadija-hotreload).
 
 ## Design(s):
 ![Design](https://firebasestorage.googleapis.com/v0/b/desifoodformula.appspot.com/o/Screenshot%202020-10-27%20at%2012.03.01%20PM.png?alt=media&token=9adffaf9-7e97-4e3c-9abd-2147c644da16)![Design2](https://firebasestorage.googleapis.com/v0/b/desifoodformula.appspot.com/o/Screenshot%202020-10-27%20at%2012.03.17%20PM.png?alt=media&token=1f13c326-3b65-4499-aaa7-11afba57f101)
@@ -23,4 +23,4 @@ A food recipe design under production by msamoeed and khadija-hotreload
 
 ![Implementation5](https://firebasestorage.googleapis.com/v0/b/desifoodformula.appspot.com/o/Screenshot%202020-10-27%20at%2012.04.50%20PM.png?alt=media&token=f7dedaf9-54ee-47b6-b0dd-245865ff36a7)
 ## Questions?
-Contact me at msamoeed@gmail.com
+Contact us at khadijahakk99@gmail.com or msamoeed@gmail.com
